@@ -10,7 +10,7 @@ Etherium miner compiled to run on Autodesk Flame linux system
 ```
 Public address of the key:   0x331144A46b44D515348A5b7e11a274b49ec9cb88
 ```
-* Find a server close to you:
+* Choose server close to you:
 
 | Location | Server Host |
 | -------- | ----------- |
