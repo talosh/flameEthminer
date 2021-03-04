@@ -27,6 +27,6 @@ Public address of the key:   0x331144A46b44D515348A5b7e11a274b49ec9cb88
 ./ethminer -P stratum1+tcp://0x<paste_your_number_here>.Flame@<closest_server_name>.nanopool.org:9999
 ```
 * You can check your balance at https://eth.nanopool.org/ by entering your wallet number in search field
-* Wallets public and private keys are in ~/.etherium and they say you'd want to back them up and remember passwords
+* Wallets public and private keys are in ~/.ethereum and they say you'd want to back them up and remember passwords
 * More info on other options and mining pools: https://github.com/ethereum-mining/ethminer#examples-connecting-to-pools
 * Source code: https://github.com/ethereum-mining/
