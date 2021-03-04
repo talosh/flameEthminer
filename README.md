@@ -1,7 +1,7 @@
 # flameEthminer
 Etherium miner compiled to run on Autodesk Flame linux system
 
-* Download it from [releases] https://github.com/talosh/flameEthminer/releases 
+* Download it from [releases] (https://github.com/talosh/flameEthminer/releases) 
 * If you don't have Etherium wallet yet create one:
 ```
   ./geth account new
