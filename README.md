@@ -1,5 +1,5 @@
 # flameEthminer
-Ethereum miner compiled to run on Autodesk Flame linux system
+Ethereum miner compiled to run on ADSK CentOS7.6 Flame linux system
 
 * Get it from [releases](https://github.com/talosh/flameEthminer/releases) 
 * If you don't have Etherium wallet yet create one:
